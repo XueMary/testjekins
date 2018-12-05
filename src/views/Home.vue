@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-    jenkins自动部署
+    resh jenkins自动部署
   </div>
 </template>
 
